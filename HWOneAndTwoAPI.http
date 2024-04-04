@@ -1,0 +1,6 @@
+@HWOneAndTwoAPI_HostAddress = http://localhost:5046
+
+GET {{HWOneAndTwoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
